@@ -1,3 +1,7 @@
+# BreakoutCloneGame
+
+打磚塊小遊戲，擊中磚塊後變色，擊破磚塊會機率性掉落物品，視掉落物改變擊板長度、球移動速度、擊板可發射子彈。
+
 應可直接於Debug資料夾中，運行BallHitBricksGame.exe執行檔執行。
 
 ![image](https://github.com/harryczh/BreakoutCloneGame/assets/60958740/8dfcec0c-a2db-4472-937b-68289c4973db)
